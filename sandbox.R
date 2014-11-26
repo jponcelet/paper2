@@ -1,0 +1,2 @@
+allprices  <- read.csv2("D:\\Mes Documents\\Dropbox\\1 - University\\Development\\Raw Downloads\\1675 - PRC - CAFPRC.csv", sep =",", dec =".", 
+                      na.strings=c("NaN", "NA"), stringsAsFactors=FALSE)
